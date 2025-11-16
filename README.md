@@ -1,11 +1,11 @@
 # 🎧 Serato Library Parser
-**Serato Library Parser** è uno strumento avanzato che permette di leggere e convertire il file **`database V2`** di Serato DJ Pro / Lite in formati aperti:
+**Serato Library Parser** is an advanced tool that allows you to read and convert the Serato DJ Pro / Lite **`database V2`** file into open formats:
 
-- ✔ JSON (lettura semplice)
-- ✔ XML stile Rekordbox (compatibilità estesa)
-- ✔ Operazione *read-only* (non modifica file di Serato)
+- ✔ JSON (easy reading)
+- ✔ Rekordbox-style XML (extended compatibility)
+- ✔ *Read-only* operation (does not modify Serato files)
 
-Perfetto per DJ, programmatori, sviluppatori di tool musicali, software engineer e per chi ha bisogno di estrarre i metadati del proprio archivio musicale.
+Perfect for DJs, programmers, music tool developers, software engineers, and anyone who needs to extract metadata from their music library.
 
 ---
 Docs
