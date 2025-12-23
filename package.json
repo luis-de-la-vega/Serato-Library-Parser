@@ -1,7 +1,7 @@
 {
-  "name": "serato-tools-luis",
+  "name": "serato-library-parser-luisdev",
   "version": "1.0.0",
-  "description": "Utility per leggere il database V2 di Serato e convertirlo in JSON / XML.",
+  "description": "Utility to read Serato V2 database and convert it to JSON/XML.",
   "type": "module",
   "main": "src/export-json.mjs",
   "scripts": {
@@ -14,3 +14,4 @@
     "xmlbuilder2": "^4.0.0"
   }
 }
+
